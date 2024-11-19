@@ -4,7 +4,11 @@
 Ссылка на датасет: https://www.kaggle.com/datasets/lantian773030/pokemonclassification
 
 Классификатор обучился с точностью 92,34%
+
 Полученные метрики:
+
 Accuracy = 0.9233658903080391
+
 Precision = 0.9334479670656142
+
 Recall = 0.9279691512191512
